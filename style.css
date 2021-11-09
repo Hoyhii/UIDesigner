@@ -1,0 +1,24 @@
+p{
+    text-align: center;
+}
+.gomb{
+    text-align: center;
+}
+
+.form{
+    margin-top: 20px;
+    margin-bottom:20px;
+}
+.container{
+    border-radius:2em;
+    margin: 1em;
+
+
+}
+.btn{
+    margin-bottom: 1em;
+}
+
+.szovegmargin{
+    margin-top: 1em;
+}
